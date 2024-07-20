@@ -55,6 +55,17 @@ git config --global user.email johndoe@example.com
 
 ## Книги и полезные ссылки по изучению git.
 
+Обучающие ресурсы
+GitHowTo.
+Git Immersion[en]
+Волшебство Git by Ben Lynn.
+Простое руководство по работе с Git by Roger Dudler.
+Git: наглядная справка by Mark Lodato.
+Руководство по Git - Евгений Сулейманов
+Справочник по Git от GitHub [en]
+Becomea git guru by Bitbucket [en]
+l
+
 ## Альтернативные системы контроля версий.
 
 ### Итак, какая система контроля версий подойдет для вашего проекта?
